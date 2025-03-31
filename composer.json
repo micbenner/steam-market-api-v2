@@ -1,5 +1,5 @@
 {
-    "name": "allyans3/steam-market-api-v2",
+    "name": "micbenner/steam-market-api-v2",
     "description": "Steam Market API v2",
     "minimum-stability": "stable",
     "license": "MIT",
@@ -12,7 +12,6 @@
     "require": {
         "imangazaliev/didom": "^1.18",
         "php-curl-class/php-curl-class": ">=8.10.0",
-        "nesbot/carbon": "^2.61.0",
         "ramsey/uuid": "^4.2"
     },
     "autoload": {
